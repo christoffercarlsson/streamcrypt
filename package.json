@@ -1,0 +1,23 @@
+{
+  "name": "streamcrypt",
+  "version": "0.0.0",
+  "description": "",
+  "exports": "./index.js",
+  "type": "module",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christoffercarlsson/streamcrypt.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/christoffercarlsson/streamcrypt/issues"
+  },
+  "homepage": "https://github.com/christoffercarlsson/streamcrypt#readme"
+}
